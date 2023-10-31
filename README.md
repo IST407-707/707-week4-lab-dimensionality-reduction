@@ -1,1 +1,3 @@
-# 707-week4-lab-dimensionality-reduction
+## Dimensionality Reduction Lecture
+
+Covers PCA and manifold embeddings.
